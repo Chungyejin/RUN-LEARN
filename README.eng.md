@@ -1,3 +1,7 @@
+This project is available in multiple languages.
+- [한국어](README.md)
+- [Português](README.pt.md)
+
 <h1>"Learning Enjoyed Like a Game, Run & Learn"</h1>
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/554f0465-63d7-46d0-9320-ee9bfed84249" />
 
