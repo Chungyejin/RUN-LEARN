@@ -2,6 +2,10 @@
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/554f0465-63d7-46d0-9320-ee9bfed84249" />
 
 
+이 프로젝트는 여러 언어로 제공됩니다.
+- [English](README.eng.md)
+- [Português](README.pt.md)
+- 
 # 🩵 프로젝트 소개 및 개발 목적
  오늘날 많은 학생들은 학습 과정에서 **집중력 부족**과 **동기 저하**로 어려움을 겪고 있으며, 교육 자원에 접근하기 어려운 환경에 놓인 학생들의 **학습 격차**는 점차 심화되고 있습니다. 이러한 문제는 단순한 개인의 한계를 넘어 **교육 불평등**으로 이어지고 있습니다.  
 
