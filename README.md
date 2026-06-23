@@ -51,7 +51,7 @@
 <br>
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/adbb74f1-94ed-4d2d-98a6-8be36f0ae157" />
 
-## 🩵 팀원 및 역할 👥
+## 🩵 팀원 및 역할 
 
 | 이름 | 역할 | 담당 업무 및 기여도 |
 | :--- | :--- | :--- |
