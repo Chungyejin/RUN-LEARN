@@ -1,7 +1,8 @@
 Este projeto está disponível em vários idiomas.
 - [한국어](README.md)
 - [English](README.eng.md)
-- 
+
+  
 <h1>"Aprendizado Divertido como um Jogo, Run & Learn"</h1>
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/554f0465-63d7-46d0-9320-ee9bfed84249" />
 
